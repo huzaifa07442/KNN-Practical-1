@@ -1,4 +1,4 @@
 numpy
 matplotlib
-sklearn
+sckit-learn
 streamlit
